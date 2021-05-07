@@ -8,10 +8,10 @@ let allGoodList = []
 
 // default params
 $.pageSize = 12
-let cidsList = ["家用电器", "手机数码", "电脑办公", "家居家装"]
+let cidsList = ["全部商品"]
 let typeList = ["普通试用", "闪电试用"]
-let goodFilters = "教程@软件@英语@辅导@培训".split('@')
-let minPrice = 50
+let goodFilters = "成人@壳@膜@女@看房@自@猫@狗@宠物@药@湿巾@一次性@教程@软件@英语@辅导@培训".split('@')
+let minPrice = 38
 
 const cidsMap = {
 	"全部商品": "0",
