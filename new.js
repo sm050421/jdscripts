@@ -10,7 +10,7 @@ let allGoodList = []
 $.pageSize = 12
 let cidsList = ["全部商品"]
 let typeList = ["普通试用", "闪电试用"]
-let goodFilters = "男@女@婴@成人@壳@膜@女@看房@自@猫@狗@宠物@药@湿巾@一次性@教程@软件@英语@辅导@培训".split('@')
+let goodFilters = "男@女@婴@成人@壳@膜@女@游@卡@电信@房@自@猫@狗@宠物@药@湿巾@一次性@教程@软件@英语@辅导@培训".split('@')
 let minPrice = 55
 
 const cidsMap = {
